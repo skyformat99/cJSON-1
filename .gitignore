@@ -7,3 +7,12 @@ test
 *.patch
 tags
 *.dylib
+build/
+cJSON_test
+cJSON_test_utils
+libcjson.so.*
+libcjson_utils.so.*
+*.orig
+.vscode
+.idea
+cmake-build-debug
